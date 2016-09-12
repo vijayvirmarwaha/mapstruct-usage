@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomerDetail>
+    <name>Vj</name>
+    <addresses>
+        <street>Dev St</street>
+        <zip>94105</zip>
+        <city>SF</city>
+        <state>CA</state>
+    </addresses>
+    <addresses>
+        <street>Test St</street>
+        <zip>94110</zip>
+        <city>SF</city>
+        <state>CA</state>
+    </addresses>
+</CustomerDetail>
